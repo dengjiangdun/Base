@@ -1,4 +1,4 @@
-package com.johndon.cmcc.util.Base;
+package com.johndon.cmcc.util.caipu;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
